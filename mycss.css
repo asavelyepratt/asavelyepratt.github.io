@@ -1,0 +1,117 @@
+  body {
+      font-family: "BBH Sans Bartle", sans-serif;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 60px; 
+  min-height: 100vh;
+  color: white;
+  text-align: center;
+    }
+.home-page {
+    background-image: url('images/15576401542_6fa254bda0_o.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+}
+.gallery-page {
+  background-color: #1c2230;
+}
+.gallery-page h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.gallery-page p {
+  font-size: 16px;
+    font-weight: 200;
+  margin-bottom: 20px;
+}
+    .center-box {
+  max-width: 600px;
+  margin: 100px auto 0 auto; 
+  background-color: rgba(0, 0, 0, 0.36);
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+      .center-box {
+          background-color: rgba(0, 0, 0, 0.36);
+          padding: 30px;
+          border-radius: 10px;
+      }
+
+    h1 {
+      font-weight: 700;
+      font-style: normal;
+      font-size: 70px;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    }
+
+    p {
+      font-size: 20px;
+      font-family: "BBH Sans Bartle", sans-serif;
+    }
+
+    .nav-button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin-top: 20px;
+      background-color: transparent;
+      color: white;
+      border: 2px solid white;
+      text-decoration: none;
+      font-weight: 200;
+      border-radius: 6px;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .nav-button:hover {
+      background-color: white;
+      color: #1c2230;
+    }
+
+    .nav-buttons {
+      list-style: none;
+      padding: 0;
+      margin-top: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .nav-buttons li a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: transparent;
+      color: white;
+      border: 2px solid white;
+      text-decoration: none;
+      font-weight: lighter;
+      border-radius: 6px;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .nav-buttons li a:hover {
+      background-color: white;
+      color: #1c2230;
+    }
+footer {
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
+  padding: 10px 0;
+}
+
+.footer-credit {
+  font-size: 4px;
+  color: white;
+  opacity: 0.7;
+  margin: 0;
+  text-align: center;
+}
+
+.footer-credit a {
+  color: white;
+  text-decoration: underline;
+  opacity: 0.8;
+}
