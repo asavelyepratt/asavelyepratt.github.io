@@ -1,6 +1,7 @@
 # asavelyepratt.github.io
 Website basics project INFO 654
 I've put together a gallery and artist profile website for some of my favorite popular street artists. Kind of like a mini archive! Please see below for references that were used. 
+
 References for classes https://www.w3schools.com/html/html_classes.asp 
 
 Refrences for navigation https://www.w3schools.com/tags/tag_button.asp and https://www.sitepoint.com/community/t/buttons-and-navigation-menu/448192
