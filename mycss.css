@@ -21,6 +21,7 @@ body {
   background-color: rgb(137, 55, 30);
 }
 <!--reference for box model used for the artist profile https://www.w3schools.com/css/css_boxmodel.asp--!>
+<!--reference for overflow https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap-->
 .artist-box {
   background-color: #400406;
   padding: 30px;
@@ -33,6 +34,10 @@ body {
   font-weight: 200;
   overflow-wrap: break-word;
 }
+<!--reference for heading tags https://www.w3schools.com/tags/tag_hn.asp-->
+<!--reference for list item element https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li -->
+<!--reference for unordered list element https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ul -->
+<!--reference for box shadow https://www.w3schools.com/css/css3_shadows_box.asp -->
 
 .artist-box p {
   font-size: 14px;
@@ -105,6 +110,7 @@ body {
   font-weight: 10;
   font-size: 12px;
 }
+<!--reference for zebra striping a table https://www.w3schools.com/howto/howto_css_table_zebra.asp-->
 .outer-table tr:nth-child(even) td {
   background-color: rgba(172, 11, 11, 0.86);
 }
@@ -157,7 +163,7 @@ p {
   font-family: "BBH Sans Bartle", sans-serif;
   font-weight: 200;
 }
-
+<!--reference for flex box items https://www.w3schools.com/css/css3_flexbox.asp-->
 .gallery-grid {
   display: flex;
   flex-wrap: wrap;
@@ -195,7 +201,7 @@ p {
   background-color: white;
   color: #1c2230;
 }
-
+<!-- reference for button styling https://www.w3schools.com/css/css3_buttons.asp-->
 .nav-buttons {
   list-style: none;
   padding: 0;
@@ -253,5 +259,6 @@ footer {
   opacity: 0.8;
   font-weight: 200;
 }
+
 
 
