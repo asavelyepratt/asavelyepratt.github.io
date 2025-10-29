@@ -8,6 +8,7 @@ body {
   color: white;
   text-align: center;
 }
+<!--reference for making an image the entire background https://www.w3schools.com/html/html_images_background.asp-->
 .home-page {
   background-image: url('images/15576401542_6fa254bda0_o.jpg');
   background-size: cover;
@@ -259,6 +260,7 @@ footer {
   opacity: 0.8;
   font-weight: 200;
 }
+
 
 
 
