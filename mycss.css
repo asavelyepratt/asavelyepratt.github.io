@@ -20,7 +20,7 @@ body {
 .artist-page {
   background-color: rgb(137, 55, 30);
 }
-
+<!--reference for box model used for the artist profile https://www.w3schools.com/css/css_boxmodel.asp--!>
 .artist-box {
   background-color: #400406;
   padding: 30px;
@@ -253,4 +253,5 @@ footer {
   opacity: 0.8;
   font-weight: 200;
 }
+
 
