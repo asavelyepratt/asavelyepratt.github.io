@@ -190,7 +190,7 @@ p {
   border-radius: 6px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
-
+<!--hover button reference https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_hover--!>
 .nav-button:hover {
   background-color: white;
   color: #1c2230;
@@ -253,3 +253,4 @@ footer {
   opacity: 0.8;
   font-weight: 200;
 }
+
